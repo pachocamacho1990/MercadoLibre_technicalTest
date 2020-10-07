@@ -24,4 +24,4 @@ Es muy importante que el path al folder sea correcto para que puedan leer los no
 
 # Notebooks
 
-Para cada ejercicio hay un notebook, entonces el analisis exploratio y el modelo de regresión tienen cada uno su notebook dentro del folder que podrán encontrar en la carpeta `container_shared`
+Para cada ejercicio hay un notebook. Entonces el analisis exploratorio y el modelo de regresión tienen cada uno su notebook dentro del folder que podrán encontrar en la carpeta `container_shared`
